@@ -7,6 +7,7 @@ Base is an Ethereum [Layer 2](https://x.com/TheRealIfiokLee/status/1532788242508
 The Base mainnet officially went live to the public on August 9, 2023 as part of Coinbase’s “Onchain Summer” initiative. From that time, various data have been generated from the use of the chain across various onchain applications developed accross various usecases.
 
 The goal is to analyze these data and extract insight from various metrics relating to Base.
+
 ---
 
 ## The Database

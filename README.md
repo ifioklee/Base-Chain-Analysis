@@ -7,3 +7,20 @@ Base is an Ethereum [Layer 2](https://x.com/TheRealIfiokLee/status/1532788242508
 The Base mainnet officially went live to the public on August 9, 2023 as part of Coinbase’s “Onchain Summer” initiative. From that time, various data have been generated from the use of the chain across various onchain applications developed accross various usecases.
 
 The goal is to analyze these data and extract insight from various metrics relating to Base.
+---
+
+## The Database
+
+For this work [Flipsidecrypto](https://flipsidecrypto.xyz/) Base core database was used to derive the tables used for the analysis. Within Base Core database on Flipsidecrypto, there are 10 tables but for this analysis just 3 tables were used, they are:
+
+- base.core.dim_contracts
+- base.core.fact_transactions
+- base.core.fact_blocks
+
+Other data source that was used was Defillama Total Value Locked(TVL) database
+
+-external.defillama.fact_chain_tvl
+
+---
+
+## The Analysis

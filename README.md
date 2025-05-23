@@ -1,4 +1,4 @@
-# <p align="center" style="margin-top: 0px;"> :boom: Base Chain Analysis :boom:
+# <p align="center" style="margin-top: 0px;">  Base Chain Analysis 
 ---
 ---
 ## Use Case

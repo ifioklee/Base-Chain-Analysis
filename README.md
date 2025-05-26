@@ -25,3 +25,33 @@ Other data source that was used was Defillama Total Value Locked(TVL) database
 ---
 
 ## The Analysis
+[Exploring the database](https://github.com/ifioklee/Base-Chain-Analysis/blob/main/Exploring%20the%20Database.md)
+
+[Visualization](https://github.com/ifioklee/Base-Chain-Analysis/tree/main/Visulization)
+
+[Dashboard](https://flipsidecrypto.xyz/IfiokLee/base-chain-Zi0L9h)
+
+
+## Visualization 
+
+Visualizations was created for every metric from the query of Base database using Flipsidecrypto visual studio. The following visulizations were creted:
+
+* [Total number of transactions](https://github.com/ifioklee/Base-Chain-Analysis/blob/main/Visulization/Screenshot%20(46).png)
+* [Unique wallet addresses](https://github.com/ifioklee/Base-Chain-Analysis/blob/main/Visulization/Screenshot%20(47).png)
+* [Created blocks](https://github.com/ifioklee/Base-Chain-Analysis/blob/main/Visulization/Screenshot%20(48).png)
+* [Average daily transactions](https://github.com/ifioklee/Base-Chain-Analysis/blob/main/Visulization/Screenshot%20(49).png)
+* [Average transactions per wallet address](https://github.com/ifioklee/Base-Chain-Analysis/blob/main/Visulization/Screenshot%20(50).png)
+* [Number of smart contract creators](https://github.com/ifioklee/Base-Chain-Analysis/blob/main/Visulization/Screenshot%20(51).png)
+
+
+## The Dashboard
+
+The dashboard was created created using [Flipsidecrypto](https://flipsidecrypto.xyz/IfiokLee/base-chain-Zi0L9h) by combinig the individual visualization that were created from the result of the various query done on the Base database on Flipsidecrypto.
+
+The dashboard is a dynamic dashboard which refreshes data every 12 hours. An up-to-date version can be found [here](https://flipsidecrypto.xyz/IfiokLee/base-chain-Zi0L9h)
+
+
+![Screenshot (65)](https://github.com/user-attachments/assets/a51ee202-36fe-4bc3-bae4-18c24e1a7f40)
+
+
+# <p align="center" style="margin-top: 0px;">THANKS FOR READING!!
